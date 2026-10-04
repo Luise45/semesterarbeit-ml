@@ -3,9 +3,10 @@
   
 ## Motivation und Relevanz
 Hitze- und Trockenperioden können Nutzpflanzen erheblich schädigen, besonders während empfindlicher Phasen wie der Blüte oder des vegetativen Wachstums. Dieser Schaden wirkt sich häufig negativ auf den späteren Ernteertrag aus. Besonders schädlich sind dabei Perioden, in denen Hitze und Trockenheit gemeinsam auftreten, da sich ihre Wirkung gegenseitig verstärkt. Wir konzentrieren uns deshalb auf heiß-trockene Perioden während der Wachstumszeit einer ausgewählten Kultur, statt Hitze und Trockenheit isoliert zu betrachten.
-Die Gesundheit und Vitalität von Pflanzen lässt sich über Satellitenbilder mit dem Normalized Difference Vegetation Index (NDVI) quantitativ erfassen – dem am häufigsten genutzten Vegetationsindex der Fernerkundung. Er macht sich zunutze, dass gesunde Pflanzen rotes Licht stark aufnehmen (für die Photosynthese), nahes Infrarotlicht dagegen stark zurückwerfen; aus dem Verhältnis beider Werte ergibt sich der NDVI. 
+
 <img width="860" height="584" alt="image" src="https://github.com/user-attachments/assets/cd2e8479-3be9-4bcc-8f3a-54fc0938a065" />
 
+Die Gesundheit und Vitalität von Pflanzen lässt sich über Satellitenbilder mit dem Normalized Difference Vegetation Index (NDVI) quantitativ erfassen – dem am häufigsten genutzten Vegetationsindex der Fernerkundung. Er macht sich zunutze, dass gesunde Pflanzen rotes Licht stark aufnehmen (für die Photosynthese), nahes Infrarotlicht dagegen stark zurückwerfen; aus dem Verhältnis beider Werte ergibt sich der NDVI. 
 Grobe Richtwerte zur Einordnung:
 - −1 bis 0: Wasser, Schnee oder Wolken
 - 0 bis 0,2: kahle Flächen, Fels, Sand oder stark gestresste Vegetation
